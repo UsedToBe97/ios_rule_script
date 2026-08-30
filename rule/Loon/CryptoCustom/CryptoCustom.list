@@ -1,11 +1,12 @@
 # NAME: CryptoCustom
 # AUTHOR: UsedToBe97
 # REPO: https://github.com/UsedToBe97/ios_rule_script
-# UPDATED: 2026-08-30 14:22:34
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
+# UPDATED: 2026-08-30 14:25:39
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
 DOMAIN-SUFFIX,hyperliquid.xyz
 DOMAIN-SUFFIX,liquiditytech.com
 DOMAIN-SUFFIX,gate.com
 DOMAIN-SUFFIX,gateio.live
 DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,kucoin.plus
