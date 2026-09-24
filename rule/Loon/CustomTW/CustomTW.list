@@ -1,0 +1,10 @@
+# NAME: CustomTW
+# AUTHOR: UsedToBe97
+# REPO: https://github.com/UsedToBe97/ios_rule_script
+# UPDATED: 2026-09-25 04:44:37
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,liquiditytech.com
+
+# Bitget
+DOMAIN-SUFFIX,bitget.com
