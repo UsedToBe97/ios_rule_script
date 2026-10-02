@@ -1,5 +1,8 @@
 # NAME: CustomHK
 # AUTHOR: UsedToBe97
 # REPO: https://github.com/UsedToBe97/ios_rule_script
-# UPDATED: 2026-10-02 20:57:06
-# TOTAL: 0
+# UPDATED: 2026-10-02 21:03:07
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+# LTP
+DOMAIN-SUFFIX,liquiditytech.com
