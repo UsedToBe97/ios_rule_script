@@ -1,8 +1,8 @@
-# NAME: CustomTW
+# NAME: CustomHK
 # AUTHOR: UsedToBe97
 # REPO: https://github.com/UsedToBe97/ios_rule_script
 # UPDATED: 2026-10-02 20:46:31
 # DOMAIN-SUFFIX: 1
 # TOTAL: 1
-# Bitget
-DOMAIN-SUFFIX,bitget.com
+# LTP
+DOMAIN-SUFFIX,liquiditytech.com
